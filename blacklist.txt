@@ -24,3 +24,6 @@
 /shoplineapp.com/
 /gameflier.com/
 /mycard520.com/
+/ecpay.com.tw/
+/easycard.com.tw/
+/newebpay.com/
