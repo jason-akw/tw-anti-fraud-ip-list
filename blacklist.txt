@@ -27,3 +27,6 @@
 /ecpay.com.tw/
 /easycard.com.tw/
 /newebpay.com/
+/whoscall.com/
+/xoyobox.com/
+/gov.tw/
