@@ -229,7 +229,7 @@
 #兆豐票券金融
 /megabills.com.tw/
 #中華票券金融
-/cbf.com.tw 
+/cbf.com.tw/
 #國際票券金融
 /ibfc.com.tw/
 
