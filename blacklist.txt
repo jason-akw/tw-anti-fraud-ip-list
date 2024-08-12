@@ -1,35 +1,40 @@
-/3dsecure/
-/cloudflare-dns.com/
-/fisc.com.tw/
+#Game
 /gashpoint/
-/mycard/
-/nccc.com.tw/
-/opentracker/
-/55168957.com/
 /gashplus/
+/beanfun.com/
+/gamania.com/
+/mycard/
+/mycard520.com/
 /monachieve/
+/55168957.com/
 /8591.com.tw/
 /8591.com.hk/
+/xoyobox.com/
+/gameflier.com/
+/gnjoy.com.tw/
+/gnjoy.hk/
+
+#Shop
 /momoshop.com.tw/
 /momomall.com.tw/
 /ruten.com.tw/
 /scsb.com.tw/
 /ecpay.com.tw/
-/yuanta.com.tw/
-/neweb.com.tw/
+
+#Credit Card, Third-party Payment, Cryptocurrency
+/3dsecure/
+/fisc.com.tw/
+/nccc.com.tw/
 /btse.com/
-/beanfun.com/
-/gamania.com/
-/bot.com.tw/
-/shoplineapp.com/
-/gameflier.com/
-/mycard520.com/
 /ecpay.com.tw/
 /easycard.com.tw/
+/neweb.com.tw/
 /newebpay.com/
+
+#Other
 /whoscall.com/
-/xoyobox.com/
 /gov.tw/
+/shoplineapp.com/
 
 #---- START BANK SERVICE ----#
 
