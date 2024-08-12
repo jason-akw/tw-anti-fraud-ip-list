@@ -31,13 +31,116 @@
 /xoyobox.com/
 /gov.tw/
 
-# ---- START BANK SERVICE ---- #
+#---- START BANK SERVICE ----#
+
+#004
+/bot.com.tw/
+#005
+/landbank.com.tw/
+#006
+/tcb-bank.com.tw/
+#007
+/firstbank.com.tw/
+#008
+/hncb.com.tw/
+#009
+/bankchb.com/
+#011
+/scsb.com.tw/
+#012
+/fubon.com/
+#013
+/cathaybk.com.tw/
+#015
+/eximbank.com.tw/
+#016
+/bok.com.tw/
+#017
+/megabank.com.tw/
+#021
+/citibank.com.tw/
+#048
+/o-bank.com/
+#050
+/tbb.com.tw/
+#052
+/sc.com/
+#053
+/tcbbank.com.tw/
+#054
+/ktb.com.tw/
+#081
+/hsbc.com.tw/
+#101
+/taipeistarbank.com.tw/
+#102
+/hwataibank.com.tw/
+#103 
+/skbank.com.tw/
+#108
+/sunnybank.com.tw/
+#118
+/bop.com.tw/
+#147
+/cotabank.com.tw/
+#803
+/ubot.com.tw/
+#805
+/feib.com.tw/
+#806
+/yuantabank.com.tw/
+#807
+/sinopac.com/
+#808
+/esunbank.com.tw/
+#809
+/kgibank.com.tw/
+#810
+/dbs.com.tw/
+#812
+/taishinbank.com.tw/
+#816
+/entiebank.com.tw/
+#822
+/ctbcbank.com/
+#823
+/nextbank.com.tw/
+#824
+/linebank.com.tw/
+#826
+/rakuten-bank.com.tw/
+
+
+#388 全盈支付
+/pluspay.com.tw/
+#389 全支付
+/pxpayplus.com/
+#390 悠遊卡
+/easycard.com.tw/
+#391 一卡通
+/i-pass.com.tw/
+#392 愛金卡
+/icash.com.tw/
+#394 國際連
+/interpay.com.tw/
+#395 橘子支付
+/gamapay.com.tw/
+#396 街口
+/jkopay.com/
+#397 歐付寶
+/opay.tw/
+#398 ezPay
+/ezpay.com.tw/
+
+#Pi錢包
+/piapp.com.tw/
+
 #遠智證券
 /feis.com.tw/
 #王道銀行
 /ibt.com.tw/
 #大眾商業銀行
-/cbank.com.tw
+/cbank.com.tw/
 #板信商業銀行
 /bop.com.tw/
 #臺灣新光商業銀行
@@ -48,16 +151,16 @@
 /sinopac.com/
 #凱基商業銀行
 /cosmosbank.com.tw/
-元大商業銀行
+#元大商業銀行
 /yuantabank.com.tw/
-玉山商業銀行
+#玉山商業銀行
 /esunbank.com.tw/
-安泰商業銀行
+#安泰商業銀行
 /entiebank.com.tw/
-兆豐國際商業銀行
+#兆豐國際商業銀行
 /megabank.com.tw/
-台北富邦商業銀行
-#/fubon.com.tw/
+#台北富邦商業銀行
+/fubon.com.tw/
 #第一商業銀行
 /firstbank.com.tw/
 #國泰世華商業銀行
@@ -68,16 +171,16 @@
 /hsbc.com.tw/
 #全國農業金庫
 /agribank.com.tw/
-#京城商業銀行
+# 京城商業銀行
 /ktb.com.tw/
 #華泰商業銀行
 /hwataibank.com.tw/
 
-臺灣銀行
+#臺灣銀行
 /bot.com.tw/
-遠東商業銀行
+#遠東商業銀行
 /feib.com.tw/
-陽信商業銀行
+#陽信商業銀行
 /sunnybank.com.tw/
 #合作金庫
 /tcb-bank.com.tw/
@@ -254,4 +357,4 @@
 #大昌期貨
 /dcnf.com.tw/
 
-# ---- END BANK SERVICES ---- #
+#---- END BANK SERVICES ----#
