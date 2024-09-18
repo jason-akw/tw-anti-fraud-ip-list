@@ -194,7 +194,7 @@
 #澳盛(台灣)商業銀行
 /anz.com/
 #渣打國際商業銀行
-/sc.com/
+||sc.com^
 #創夢市集股權群募證券
 /startupshares.com.tw/
 #合作金庫證券
