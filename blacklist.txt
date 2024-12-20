@@ -1,3 +1,6 @@
+#ECH
+/use-application-dns.net/
+
 #Game
 /gashpoint/
 /gashplus/
